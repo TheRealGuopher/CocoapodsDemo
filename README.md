@@ -2,6 +2,8 @@
 
 If you cloned the repo and ran it right away but it doesn't work, make sure to get your API key from OpenWeatherMap.org or go to the #general Slack channel
 
+
+
 To install Cocoapods...
 
 Go to your project's root directory in Terminal and enter, "sudo gem install cocoapods". If you're prompted to type your password, this is your Mac's password.
