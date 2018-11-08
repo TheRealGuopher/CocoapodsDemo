@@ -10,7 +10,7 @@ While in Terminal, type, "pod init" to initialize the Podfile.
 
 In order to install a Cocoapod such as "Alamofire", type, "vim Podfile" in terminal and type in "pod 'Alamofire' '~> 4.7'"
 
-![Terminal screenshot](https://ibb.co/f5Ac8V)
+![Terminal Screenshot](https://ibb.co/f5Ac8V)
 
 Make sure to exit Vim. Then type in "pod install" in Terminal. This will install the "Alamofire" Cocoapod.
 
